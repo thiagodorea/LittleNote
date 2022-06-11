@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+html,body{
+    height: 100vh;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    font-family: Roboto, sans-serif;
+    background-image: url("/img/fundo.png");
+}
+
+.painel{
+    border-radius: 30px ;
+    background-color: rgba(156, 147, 132, 0.733);
+}
+
+.rounded-25{
+    border-radius: 25px 25px 25px 25px;
+}
