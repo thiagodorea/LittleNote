@@ -29,7 +29,7 @@ function criarCard() {
                 <h5 class="card-title"><strong>${titulo.value}</strong></h5>
                 <p class="card-text">${descricao.value}</p>
             </div>
-            <button id="conluirCard${idCard}" class="btn btn-outline-link btn-sm position-absolute bottom-0 end-0 rounded-25" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Cocluir Task"><i class="bi bi-hand-thumbs-up"></i></button>
+            <button id="conluirCard${idCard}" class="btn btn-outline-link btn-sm position-absolute bottom-0 end-0 rounded-25" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Concluir Task"><i class="bi bi-hand-thumbs-up"></i></button>
         </div>
     </div>`
     areaCards.innerHTML += card;

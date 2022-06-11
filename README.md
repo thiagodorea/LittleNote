@@ -7,6 +7,8 @@
 
 <h2 align="center">To Do List </h2>
 
+<h3 align="center">Site Hospedado em: <a href="https://littlenote.netlify.app"> https://littlenote.netlify.app</a>  </h3>
+
 
 ### :pushpin: Resumo:
 Site implementa os conceitas de manipulação da DOM, inserindo item, classes e estilo através do java script.
