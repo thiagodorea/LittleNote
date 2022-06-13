@@ -11,7 +11,7 @@
 
 
 ### :pushpin: Resumo:
-Site implementa os conceitos de manipulação da DOM, inserindo item, classes e estilo através do java script.
+O Site implementa os conceitos de manipulação da DOM, inserindo item, classes e estilo através do java script.
 
 <p align="center">
  <a href="#">Thiago Dorea Alves</a> • 
