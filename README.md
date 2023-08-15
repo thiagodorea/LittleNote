@@ -1,4 +1,3 @@
-<h1 align="center">:point_up: CheckPoint 1 - FrontEnd 2.</h1>
 
 <div align="center">
 <img style="display: block; margin: auto;" alt="versão" src="https://img.shields.io/badge/Vers%C3%A3o-1.0.0-blue?style=plastic&logo=exercism">
@@ -13,9 +12,6 @@
 ### :pushpin: Resumo:
 O Site implementa os conceitos de manipulação da DOM, inserindo item, classes e estilo através do java script.
 
-<p align="center">
- <a href="#">Thiago Dorea Alves</a> • 
- <a href="#">Renato Lino Barros</a> • 
- <a href="#">Bruno Gomes</a> • 
- <a href="#">Tiago Saraiva</a> • 
-</p>
+
+
+![image](https://github.com/thiagodorea/LittleNote/assets/60205208/b56fa8d3-5dbf-4d0d-bc0b-bea99f753e2e)
